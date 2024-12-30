@@ -18,7 +18,7 @@ The Minishell project is part of the 42 School curriculum and serves as a gatewa
 
 Key Learning Objectives
 
-Completing the Minishell project helps develop a deeper understanding of several core programming and system concepts, including:
+Completing the Minishell project helps develop a deeper understanding of several core programming and system concepts, including
 
     File Descriptors: Learn how file descriptors work, how to duplicate them with dup2, and their role in redirection and piping.
 
