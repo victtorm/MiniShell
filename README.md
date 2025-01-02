@@ -49,3 +49,5 @@ Features to Implement
     Environment Variable Expansion: Parse and expand $VARIABLE when necessary.
 
 This project is a cornerstone in the 42 curriculum, offering an unparalleled opportunity to solidify your understanding of operating systems and Unix programming. Dive in, embrace the challenges, and enjoy the learning process!
+
+MiniShell was done in partnership with jhonas Leal (https://github.com/Jburlama)
